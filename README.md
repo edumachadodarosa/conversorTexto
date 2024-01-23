@@ -1,5 +1,6 @@
 # Conversor de Texto para Fala
 
+![text](https://github.com/edumachadodarosa/conversorTexto/assets/145352273/dd4344b6-d484-4b0e-b134-396a6597d1a2)
 
 O "Conversor de Texto para Fala" é uma aplicação web simples desenvolvida para permitir aos usuários converterem texto em fala de maneira fácil e interativa. Utilizando tecnologias web padrão, como HTML, CSS e JavaScript, este projeto oferece uma interface intuitiva que permite aos usuários escreverem qualquer texto na caixa designada. Em seguida, eles têm a opção de escolher entre diversas vozes disponíveis para ouvir o texto em diferentes estilos e tons.
 
